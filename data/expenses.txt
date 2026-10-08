@@ -1,0 +1,4 @@
+1|2026-10-12|Food|2000|ONLINE|Lunch at college
+2|2026-10-12|Travel|3000|ONLINE|bus
+3|2026-10-12|Travel|23000|ONLINE|college fee
+4|2026-10-12|Food|3000|ONLINE|breakfast,lunch,dinner

@@ -1,0 +1,11 @@
+PERSONAL EXPENSE REPORT
+Expense count: 4
+Total spending: 31000 rupees
+Budget: 20000 rupees
+Over budget by: 11000 rupees
+
+Food: 5000
+Travel: 26000
+Study: 0
+Other: 0
+Categories used: 2
